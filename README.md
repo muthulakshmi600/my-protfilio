@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Muthulakshmi - Personal Portfolio Website 🌸
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-purple?style=flat&logo=github)](https://github.com/muthulakshmi600/my-protfilio.git)
@@ -114,3 +115,6 @@ You do **not** need Node.js, Python, or npm!
 **Muthulakshmi**
 - **GitHub**: [@muthulakshmi600](https://github.com/muthulakshmi600)
 - **Repository**: [my-protfilio](https://github.com/muthulakshmi600/my-protfilio.git)
+=======
+# my-protfilio
+>>>>>>> 0ae1c7003b090a969678d793f72721b060ca6612
